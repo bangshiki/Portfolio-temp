@@ -2,6 +2,7 @@
 This portfolio wil contain copies of my Enterprise Data Management Lab Exercises
 
 ## About Me
+Valerie L. Nocete is a video editor, first year college student currently pursuing Bachelor of Science in Information Systems at City College of Angeles.
 
 ## Education
 - College: Bachelor of Science in Information Systems - Ongoing (City College of Angeles)
