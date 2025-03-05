@@ -1,6 +1,3 @@
-#title: Valerie Nocete
-#logo:
-#description: 
-#show_downloads: true
-#theme:
-theme: jekyll-theme-hacker
+title: My Project
+
+remote_theme: pages-themes/hacker
