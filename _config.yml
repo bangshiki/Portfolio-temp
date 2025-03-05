@@ -1,7 +1,5 @@
-title: My Project
-
+title: EDM Portfolio
+description: my portfolio site
 remote_theme: pages-themes/hacker
-
-exclude:
-  - docs
-  - guide
+plugins:
+  - jekyll-remote-theme
