@@ -1,7 +1,7 @@
----
-layout: default
----
-
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+  
 # Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
 ### For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data Cleaning and Preparation
 
