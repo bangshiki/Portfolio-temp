@@ -1,5 +1,6 @@
-title: Valerie Nocete
+#title: Valerie Nocete
 #logo:
 #description: 
 #show_downloads: true
-#theme: 
+#theme:
+theme: jekyll-theme-hacker
