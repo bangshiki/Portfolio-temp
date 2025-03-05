@@ -1,7 +1,0 @@
-title: My Project
-
-remote_theme: pages-themes/hacker
-
-exclude:
-  - docs
-  - guide
