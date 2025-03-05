@@ -1,3 +1,7 @@
+title: EDM Portfolio
+description: This portfolio will contain copies of my Enterprise Data Management Lab Exercises.
+show_downloads: true
+google_analytics: [Your Google Analytics tracking ID]
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme 
