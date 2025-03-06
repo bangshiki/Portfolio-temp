@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Midterm task 2 – Data Cleaning and Transformation using Power Query Editor
 
 ## Task Description:
